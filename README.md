@@ -1,2 +1,3 @@
-# eurekaserver
-Testing eureka server
+# Eureka Server
+
+This repository contains a basic **Eureka Server**
